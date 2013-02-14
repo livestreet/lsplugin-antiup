@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+	<name>
+		<lang name="default">AntiUp</lang>
+	</name>
+	<author>
+		<lang name="default">LiveStreet Developers Team</lang>
+	</author>
+	<homepage></homepage>
+	<version>1.0</version>
+	<requires>
+		<livestreet>1.*</livestreet>
+	</requires>
+	<description>
+		<lang name="default">Плагин для блокировки "апа" топиков</lang>
+	</description>
+</plugin>
